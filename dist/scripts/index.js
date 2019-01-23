@@ -1,0 +1,1 @@
+"use strict";function _classCallCheck(o,a){if(!(o instanceof a))throw new TypeError("Cannot call a class as a function")}$.ajax("http://localhost:8888/proxydouban/v2/movie/top250").then(function(o){console.log(o)});var Foo=function o(){_classCallCheck(this,o),this.a=10};new Foo;
